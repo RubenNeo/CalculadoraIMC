@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CalculadoraIMC</string>
+    <string name="main_activity_Click_button">Button</string>
 </resources>
